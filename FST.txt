@@ -1,0 +1,1 @@
+[{'City': 'Fes', 'Branch': 'LST', 'Applicants': 1200, 'Seats': 150, 'Ratio': 8.0}, {'City': 'Tangier', 'Branch': 'MST', 'Applicants': 800, 'Seats': 80, 'Ratio': 10.0}]
